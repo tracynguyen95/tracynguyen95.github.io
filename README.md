@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Tracy's Blog
 
-You can use the [editor on GitHub](https://github.com/tracynguyen95/tracynguyen95.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find helpful tips and tricks of how to better your excel skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
